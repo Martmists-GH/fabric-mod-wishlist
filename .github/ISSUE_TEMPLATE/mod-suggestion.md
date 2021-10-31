@@ -13,7 +13,7 @@ assignees: ''
 
 ### Details
 
-- Does a Forge version of this mod exist? <yes/no>
-    - If yes, what is the link to the github/curseforge? <link>
+- Does a Forge/Bukkit/etc version of this mod exist? <yes/no>
+    - If yes, what is the link to the github/curseforge/etc? <link>
 - Does a Fabric version of this mod exist for an older MC version? <yes/no>
     - If yes, what is the link to the github/curseforge? <link>
